@@ -13,4 +13,5 @@ Component Library - https://material.io/components
 
 ## React
 Resizable drag and drop grid - https://github.com/STRML/react-grid-layout
+<br />
 Financial Charts - https://github.com/reactivemarkets/react-financial-charts
