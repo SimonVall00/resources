@@ -10,3 +10,7 @@ IValueConverter - https://www.wpf-tutorial.com/data-binding/value-conversion-wit
 
 ## Material Design
 Component Library - https://material.io/components
+
+## React
+Resizable drag and drop grid - https://github.com/STRML/react-grid-layout
+Financial Charts - https://github.com/reactivemarkets/react-financial-charts
