@@ -17,3 +17,5 @@ Resizable drag and drop grid - https://github.com/STRML/react-grid-layout
 Financial Charts - https://github.com/reactivemarkets/react-financial-charts
 <br />
 Material Components - https://material-ui.com/
+<br />
+TypeScript and React Hooks - https://fettblog.eu/typescript-react/hooks/#useref
