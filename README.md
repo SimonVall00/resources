@@ -21,3 +21,6 @@ Financial Charts - https://github.com/reactivemarkets/react-financial-charts
 Material Components - https://material-ui.com/
 <br />
 TypeScript and React Hooks - https://fettblog.eu/typescript-react/hooks/#useref
+
+## Flutter
+CustomPaint - https://blog.codemagic.io/flutter-custom-painter/
