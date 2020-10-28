@@ -7,6 +7,8 @@ A collection of resources that might be valuable to you and your project.
 MVVM - https://www.tutorialspoint.com/mvvm/index.htm
 <br />
 IValueConverter - https://www.wpf-tutorial.com/data-binding/value-conversion-with-ivalueconverter/
+<br />
+ResourceDictionary - https://docs.microsoft.com/en-us/dotnet/desktop/wpf/app-development/how-to-use-an-application-scope-resource-dictionary?view=netframeworkdesktop-4.8
 
 ## Material Design
 Component Library - https://material.io/components
