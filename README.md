@@ -2,6 +2,8 @@
 
 A collection of resources that might be valuable to you and your project.
 
+# Software Resources
+
 ## C#
 ### WPF
 MVVM - https://www.tutorialspoint.com/mvvm/index.htm
@@ -24,3 +26,6 @@ TypeScript and React Hooks - https://fettblog.eu/typescript-react/hooks/#useref
 
 ## Flutter
 CustomPaint - https://blog.codemagic.io/flutter-custom-painter/
+
+# Hardware resources
+MacBook Troubleshooting Guides- https://wiki2.rossmanngroup.com/index.php?title=Troubleshooting_Guides
