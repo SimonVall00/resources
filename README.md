@@ -27,6 +27,9 @@ TypeScript and React Hooks - https://fettblog.eu/typescript-react/hooks/#useref
 ## Flutter
 CustomPaint - https://blog.codemagic.io/flutter-custom-painter/
 
+# Algorithms
+Minimax - https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+
 # Hardware
 MacBook Troubleshooting Guides- https://wiki2.rossmanngroup.com/index.php?title=Troubleshooting_Guides
 
