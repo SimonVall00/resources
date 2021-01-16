@@ -31,7 +31,8 @@ CustomPaint - https://blog.codemagic.io/flutter-custom-painter/
 Minimax - https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
 
 # Hardware
-MacBook Troubleshooting Guides- https://wiki2.rossmanngroup.com/index.php?title=Troubleshooting_Guides
+MacBook Troubleshooting Guides - https://wiki2.rossmanngroup.com/index.php?title=Troubleshooting_Guides
 
 # Mathematics
 Transform from one range to another - https://math.stackexchange.com/questions/1205733/how-to-convert-or-transform-from-one-range-to-another
+Two dimensional array with one dimensional index - https://stackoverflow.com/questions/33870716/accessing-multi-dimensional-array-with-one-dimensional-index
