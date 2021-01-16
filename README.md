@@ -35,4 +35,5 @@ MacBook Troubleshooting Guides - https://wiki2.rossmanngroup.com/index.php?title
 
 # Mathematics
 Transform from one range to another - https://math.stackexchange.com/questions/1205733/how-to-convert-or-transform-from-one-range-to-another
+<br />
 Two dimensional array with one dimensional index - https://stackoverflow.com/questions/33870716/accessing-multi-dimensional-array-with-one-dimensional-index
